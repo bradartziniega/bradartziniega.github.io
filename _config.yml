@@ -2,7 +2,7 @@
 title:               Dissections
 tagline:             'Picking thoughts apart'
 description:         'My small home to make sense of the world. You can also find me on Twitter.'
-url:                 http://bradartziniega.github.io
+url:                 https://bradartziniega.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
