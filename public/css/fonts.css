@@ -1,0 +1,36 @@
+/*
+        This font software is the property of Commercial Type.
+
+        You may not modify the font software, use it on another website, or install it on a computer.
+
+        License information is available at http://commercialtype.com/eula
+        For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+        Copyright (C) 2020 Schwartzco Inc.
+        License: 2011-YYZUZQ
+*/
+
+
+@font-face {
+  font-family: 'Lyon Display Web';
+  src: url('../fonts/LyonDisplay-Light-Web.woff2') format('woff2'),
+       url('../fonts/LyonDisplay-Light-Web.woff') format('woff');
+  font-weight:  300;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.LyonDisplay-Light-Web {
+  font-family: 'Lyon Display Web';
+  font-weight:  300;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: 'SharpGroteskBook15';
+  src: url('../fonts/SharpGroteskBook15.woff2') format('woff2'),
+       url('../fonts/SharpGroteskBook15.woff') format('woff');
+  font-style:   normal;
+  font-stretch: normal;
+}
